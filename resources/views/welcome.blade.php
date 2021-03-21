@@ -195,7 +195,7 @@
                                                 </p>
                                             </p>
                                             <p class="font-small font-weight-bold blue-grey-text mb-1">
-                                                <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                                <i class="far fa-clock-o"></i> 29/07/2019</p>
                                             <p class="font-small dark-grey-text mb-0 font-weight-bold">Anna Smith</p>
                                         </div>
                                         <!-- Card content -->
@@ -546,7 +546,7 @@
                                 <ul class="list-unstyled list-inline-item circle-icons list-unstyled flex-center">
                                     <!-- Facebook -->
                                     <li>
-                                        <a class="fb-ic">
+                                        <a class="fb-ic" href="https://www.facebook.com/chiede.giducos.7https://www.facebook.com/chiede.giducos.7">
                                             <i class="fab fa-facebook-f"> </i>
                                         </a>
                                     </li>
