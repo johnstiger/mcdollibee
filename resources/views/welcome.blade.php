@@ -523,7 +523,7 @@
 
                             <!-- Card image -->
                             <div class="view overlay">
-                                <img src="{{ asset('img/profile.jpg') }}" class="card-img-top" alt="">
+                                <img src="{{ asset('img/business.webp') }}" class="card-img-top" alt="">
                                 <a>
                                     <div class="mask rgba-white-slight"></div>
                                 </a>
@@ -534,14 +534,13 @@
                             <div class="card-body">
                                 <!-- Title -->
                                 <h5 class="card-title dark-grey-text text-center grey lighten-4 py-2">
-                                    <strong>johnstiger</strong>
+                                    <strong>Our Business</strong>
                                 </h5>
 
                                 <!-- Description -->
                                 <p class="mt-3 dark-grey-text font-small text-center">
-                                    <em>Hello, I'm John. I love travel around the world and take photos of landscapes and local
-                    people.
-                  </em>
+                                    <em>Chied's Hash House offers snacks, fried foods,
+                                        desserts and drinks with free delivery within Santa Fe area.</em>
                                 </p>
 
                                 <ul class="list-unstyled list-inline-item circle-icons list-unstyled flex-center">
@@ -554,13 +553,13 @@
                                     <!-- Twitter -->
                                     <li>
                                         <a class="tw-ic">
-                                            <i class="fab fa-twitter mx-3"> </i>
+                                            <i class="fab fa-facebook-messenger mx-3"> </i>
                                         </a>
                                     </li>
                                     <!-- Google + -->
                                     <li>
                                         <a class="gplus-ic">
-                                            <i class="fab fa-google-plus-g"> </i>
+                                            <i class="fab fa-instagram"> </i>
                                         </a>
                                     </li>
                                 </ul>
@@ -812,7 +811,7 @@
                                 </h6>
                                 <div class="post-data">
                                     <p class="font-small grey-text mb-0">
-                                        <i class="far fa-clock-o"></i>Member</p>
+                                        <i class="far fa-clock-o"></i>@agatha_ey</p>
                                 </div>
                             </div>
                             <!--  Excerpt -->
@@ -840,7 +839,7 @@
                                 </h6>
                                 <div class="post-data">
                                     <p class="font-small grey-text mb-0">
-                                        <i class="far fa-clock-o"></i> Member</p>
+                                        <i class="far fa-clock-o"></i> @marveloustonyet</p>
                                 </div>
                             </div>
                             <!--  Excerpt -->
@@ -903,7 +902,7 @@
 
                                 <div class="post-data">
                                     <p class="font-small grey-text mb-0">
-                                        <i class="far fa-clock-o"></i> Member</p>
+                                        <i class="far fa-clock-o"></i>@loydee.xd07</p>
                                 </div>
                             </div>
                             <!--  Excerpt -->
